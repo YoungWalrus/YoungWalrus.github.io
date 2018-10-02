@@ -6,7 +6,7 @@
 
 1. 1988 I was born.
 2. 2008 I graduated High School.
-3. 2009 i was stationed in [Iwakuni Japan](https://www.mcasiwakuni.marines.mil/).
+3. 2009 I was stationed in [Iwakuni Japan](https://www.mcasiwakuni.marines.mil/).
 4. 2014 I was stationed in [Camp Pendleton](https://www.pendleton.marines.mil/).
 5. 2014 November I was stationed in [Iwakuni Japan](https://www.mcasiwakuni.marines.mil/).
 6. 2018 January I started college at UMUC.
