@@ -13,13 +13,13 @@
 
 ### East Tennessee
 ![Photo of East Tennessee](EastTN.jpg)
-  
+### Me working on F18  
 ![Photo of me working on Fixed-Wing Aircraft](f18.jpg)  
-
+### Me working on CH53
 ![Photo of me working on Rotary Aircraft](ch53.jpg)  
-
+### Me working on F35
 ![Photo of me working on the F35](f35.jpg)  
-
+### Me at UMUC
 ![Photo of me at UMUC](umuc.jpg)  
 
 [home](index)
