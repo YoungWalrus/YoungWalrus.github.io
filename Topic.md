@@ -18,11 +18,12 @@
  
  ---
  
- ### Snacks are life
  
- ### My life is basically revolves around snacks. You will never not catch me without a snack. Snacks are life. Anything with sugar is considered a snack.
+ ## Snacks are life
  
- ![Snackmeme](Snackmeme)
+  ### My life is basically revolves around snacks. You will never not catch me without a snack. Snacks are life. Anything with sugar is considered a snack.
+ 
+ ![Snacklife](Snackmeme.jpg)
  
  ---
  
