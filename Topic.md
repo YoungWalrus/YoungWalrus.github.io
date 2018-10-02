@@ -9,17 +9,16 @@
 
 ---
 
-
 # My Flaws
  Being unorganized and not being able to set priorities.
  
  ![being unorganized](mydesk.jpg)
  ![everything is a now priority](priorities.jpg)
  
+ 
  ---
  
  #### Snacks are life
- 
   *My life basically revolves around snacks. You will never not catch me without a snack. Snacks are life. Anything with sugar is considered a snack.*
  
  ![Snacklife](mylife.jpg)
