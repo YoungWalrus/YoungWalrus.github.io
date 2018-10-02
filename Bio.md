@@ -22,4 +22,4 @@
 ### Me at UMUC
 ![Photo of me at UMUC](umuc.jpg)  
 
-[home](index)
+[home](https://github.com/YoungWalrus/YoungWalrus.github.io/blob/master/index.md)
