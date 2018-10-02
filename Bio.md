@@ -13,6 +13,7 @@
 
 
 --- 
+
 ### East Tennessee
 ![Photo of East Tennessee](EastTN.jpg)
 ### Me working on F18  
@@ -24,4 +25,5 @@
 ### Me at UMUC
 ![Photo of me at UMUC](umuc.jpg)  
 --- 
+
 [home](index)
