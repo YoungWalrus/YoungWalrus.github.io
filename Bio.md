@@ -2,7 +2,7 @@
 
 ![Picture of Myself](picture.jpg)
 
-### I was born in east Tennessee in 1988. in 2008 I graduated High School and joined the Marine Corps afterwards. I was 20 years old. i have been in the Marine Corps for 10 years. I have spent 6 years in Japan and love it. My main job in the Marine Corps is to repair multimillion dollar aircraft. In 2009 I was stationed in Iwakuni, japan to repair Fixwing Aircraft. Then the worst happaned and I was stationed in Camp Pendleton, Califorina to repair Rotary Aircraft. In 2014 I moved back to Iwakuni, Japan to repair Fix-wing Aircraft. In 2018 I started back at College at UMUC.
+### I was born in east Tennessee in 1988. in 2008 I graduated High School and joined the Marine Corps afterwards. I was 20 years old. i have been in the Marine Corps for 10 years. I have spent 6 years in Japan and love it. My main job in the Marine Corps is to repair multimillion dollar aircraft. In 2009 I was stationed in Iwakuni, japan to repair Fixwing Aircraft. Then the worst happaned and I was stationed in Camp Pendleton, Califorina to repair Rotary Aircraft. In 2014 I moved back to Iwakuni, Japan to repair the F35. In 2018 I started back at College at UMUC.
 
 1. 1988 I was born
 2. 2008 I graduated College
@@ -14,7 +14,7 @@
 ![Photo of East Tennessee](EastTN.jpg)
 ![Photo of me working on Fixed-Wing Aircraft](F18.jpg)
 ![Photo of me working on Rotary Aircraft](CH53.jpg)
-![Photo of me working on Fixed-Wing Aircraft](F18.jpg)
+![Photo of me working on the F35](F35.jpg)
 ![Photo of me at UMUC](UMUC.jpg)
 
 [home](index)
