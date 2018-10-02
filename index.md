@@ -5,6 +5,7 @@
 
 #### Here is a my Biography
 [biography](https://github.com/YoungWalrus/YoungWalrus.github.io/blob/master/Bio.md)
-
+--- 
 #### Also here are my hobbies!
 [Topic](topic)
+--- 
