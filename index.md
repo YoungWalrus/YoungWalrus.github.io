@@ -7,5 +7,5 @@
 [Biography](Bio)
 --- 
 #### Also here are my hobbies!
-[Topic](topic)
+[Topic](Topic)
 --- 
