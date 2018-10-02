@@ -11,7 +11,8 @@
 5. 2014 November I was stationed in [Iwakuni Japan](https://www.mcasiwakuni.marines.mil/).
 6. 2018 January I started college at UMUC.
 
----![Photo of East Tennessee](EastTN.jpg)
+East Tenneseee![Photo of East Tennessee](EastTN.jpg)
+  
 ![Photo of me working on Fixed-Wing Aircraft](f18.jpg)
 ![Photo of me working on Rotary Aircraft](ch53.jpg)
 ![Photo of me working on the F35](f35.jpg)
