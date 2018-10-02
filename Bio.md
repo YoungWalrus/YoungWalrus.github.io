@@ -10,6 +10,8 @@
 4. 2011 I was stationed in [Camp Pendleton](https://www.pendleton.marines.mil/).
 5. 2014 November I was stationed in [Iwakuni Japan](https://www.mcasiwakuni.marines.mil/).
 6. 2018 January I started college at UMUC.
+
+
 --- 
 ### East Tennessee
 ![Photo of East Tennessee](EastTN.jpg)
